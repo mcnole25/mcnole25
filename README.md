@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Javascript
 - ⚡ 25 is my favorite number! Although my old favorite was 24, that's why it's my PFP.
 
-![3-way-percent](https://github.com/user-attachments/assets/875f82cd-f8ab-49c9-98fb-f5bf9e61845d)
+My Desmos graphs
 
-[Desmos graph](https://www.desmos.com/calculator/09tlz9hoo5)
+[3 Way Percentage](https://www.desmos.com/calculator/09tlz9hoo5) [2D Terrain](https://www.desmos.com/calculator/swolamvugu) [Real Number Line](https://www.desmos.com/calculator/7b42o5wbnw) [e^x Taylor Series](https://www.desmos.com/calculator/4sliqjgaqy)
+
+[Traffic Light](https://www.desmos.com/calculator/5no5bavqje) [Sun Shadow](https://www.desmos.com/calculator/4dvkwwh7dc) [Normal Distribution](https://www.desmos.com/calculator/ltuut5ghxr) [Trigonometry: Unit Circle (Improved)](https://www.desmos.com/calculator/zyfo1shwzb)
