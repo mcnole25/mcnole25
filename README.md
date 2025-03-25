@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mcnole25
 - 👀 I’m interested in math & data
-- 🌱 I’m currently learning Javascript
 - 🔢 My favorite number is 60
-- ⚡ Fun Fact: I am autistic
+- 🧩 Fun Fact: I have high functioning autism
 
 My Desmos graphs:
 [3 Way Percentage REMASTERED](https://www.desmos.com/calculator/bovtioaahk) [2D Terrain](https://www.desmos.com/calculator/swolamvugu) [Real Number Line](https://www.desmos.com/calculator/7b42o5wbnw) [e^x Taylor Series](https://www.desmos.com/calculator/4sliqjgaqy) [Traffic Light](https://www.desmos.com/calculator/5no5bavqje) [Sun Shadow](https://www.desmos.com/calculator/4dvkwwh7dc)
