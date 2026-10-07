@@ -10,3 +10,4 @@ My Desmos graphs:
 [Normal Distribution](https://www.desmos.com/calculator/ltuut5ghxr) [Trigonometry: Unit Circle (Improved)](https://www.desmos.com/calculator/zyfo1shwzb) [Collatz Conjecture](https://www.desmos.com/calculator/prvspfvdyi) [Spinner Wheel](https://www.desmos.com/calculator/md6xf1ze73) [Linear Transformations](https://www.desmos.com/calculator/iekekdv1u5)
 
 [3 Way Percentage (old version)](https://www.desmos.com/calculator/09tlz9hoo5)
+[Unofficial frequency of math words](https://raw.githubusercontent.com/mcnole25/random-resources/refs/heads/master/fqmw.txt)
