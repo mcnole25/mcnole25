@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcnole25
 - 👀 I’m interested in math, data, & languages
-- 🔢 My favorite number is 60
+- 🔢 My favorite numbers are 60, & Golden Ratio (0.5√5+0.5)
 - ♾️ I have high functioning autism
 - 💾 Final [mcnole25.github.io](https://mcnole25.github.io/2.0) update was 23 Oct 2026.
